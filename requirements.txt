@@ -1,0 +1,6 @@
+networkx>=3.0
+python-louvain>=0.16
+matplotlib>=3.5.0
+pyvis>=0.3.0
+rapidfuzz>=2.0.0
+
